@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+     width: 500px;
+     height: 0 auto;
+     margin: 50px auto;
+}
+.post-header{
+    display: flex;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0%;
+}
+.imagentitulo{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.imagen2{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 330px;
+   
+}
+post-imagen{
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+
+}
+img{
+    width: 500px;
+}
+.post-body{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.iconos{
+    height: 35px;
+    width: 35px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.guardar{
+    margin-left: 340px;
+}
